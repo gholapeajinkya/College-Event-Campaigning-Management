@@ -1,0 +1,65 @@
+c:\users\renuka\documents\visual studio 2015\Projects\Tanmay1\Tanmay1\bin\Debug\Tanmay1.exe.config
+C:\Users\RENUKA\Documents\Visual Studio 2015\Projects\Tanmay1\Tanmay1\bin\Debug\Tanmay1.exe
+C:\Users\RENUKA\Documents\Visual Studio 2015\Projects\Tanmay1\Tanmay1\bin\Debug\Tanmay1.pdb
+C:\Users\RENUKA\Documents\Visual Studio 2015\Projects\Tanmay1\Tanmay1\obj\Debug\Tanmay1.csprojResolveAssemblyReference.cache
+C:\Users\RENUKA\Documents\Visual Studio 2015\Projects\Tanmay1\Tanmay1\obj\Debug\Tanmay1.Form1.resources
+C:\Users\RENUKA\Documents\Visual Studio 2015\Projects\Tanmay1\Tanmay1\obj\Debug\Tanmay1.Form2.resources
+C:\Users\RENUKA\Documents\Visual Studio 2015\Projects\Tanmay1\Tanmay1\obj\Debug\Tanmay1.Properties.Resources.resources
+C:\Users\RENUKA\Documents\Visual Studio 2015\Projects\Tanmay1\Tanmay1\obj\Debug\Tanmay1.csproj.GenerateResource.Cache
+C:\Users\RENUKA\Documents\Visual Studio 2015\Projects\Tanmay1\Tanmay1\obj\Debug\Tanmay1.exe
+C:\Users\RENUKA\Documents\Visual Studio 2015\Projects\Tanmay1\Tanmay1\obj\Debug\Tanmay1.pdb
+C:\Users\RENUKA\Documents\Visual Studio 2015\Projects\Tanmay1\Tanmay1\obj\Debug\Tanmay1.AddMemberForm.resources
+C:\Users\RENUKA\Documents\Visual Studio 2015\Projects\Tanmay1\Tanmay1\obj\Debug\Tanmay1.CoreMemberForm.resources
+C:\Users\RENUKA\Documents\Visual Studio 2015\Projects\Tanmay1\Tanmay1\obj\Debug\Tanmay1.EventHead.resources
+C:\Users\RENUKA\Documents\Visual Studio 2015\Projects\Tanmay1\Tanmay1\obj\Debug\Tanmay1.LoginForm.resources
+C:\Users\RENUKA\Documents\Visual Studio 2015\Projects\Tanmay1\Tanmay1\obj\Debug\Tanmay1.CampaigningIntro.resources
+C:\Users\RENUKA\Documents\Visual Studio 2015\Projects\Tanmay1\Tanmay1\obj\Debug\Tanmay1.LogoutForm.resources
+C:\Users\RENUKA\Documents\Visual Studio 2015\Projects\Tanmay1\Tanmay1\obj\Debug\Tanmay1.NewEntryForm.resources
+C:\Users\RENUKA\Documents\Visual Studio 2015\Projects\Tanmay1\Tanmay1\obj\Debug\Tanmay1.NonCoreForm.resources
+C:\Users\RENUKA\Documents\Visual Studio 2015\Projects\Tanmay1\Tanmay1\obj\Debug\Tanmay1.ViewMembersForm.resources
+C:\Users\RENUKA\Documents\Visual Studio 2015\Projects\Tanmay1\Tanmay1\obj\Debug\Tanmay1.ParticipantsShowForm.resources
+C:\Users\RENUKA\Documents\Visual Studio 2015\Projects\Tanmay1\Tanmay1\obj\Debug\Tanmay1.FinanceForm.resources
+D:\C#project\Tanmay1\Tanmay1\Tanmay1\bin\Debug\Tanmay1.exe.config
+D:\C#project\Tanmay1\Tanmay1\Tanmay1\bin\Debug\Tanmay1.exe
+D:\C#project\Tanmay1\Tanmay1\Tanmay1\bin\Debug\Tanmay1.pdb
+D:\C#project\Tanmay1\Tanmay1\Tanmay1\obj\Debug\Tanmay1.AddMemberForm.resources
+D:\C#project\Tanmay1\Tanmay1\Tanmay1\obj\Debug\Tanmay1.CampaigningIntro.resources
+D:\C#project\Tanmay1\Tanmay1\Tanmay1\obj\Debug\Tanmay1.CoreMemberForm.resources
+D:\C#project\Tanmay1\Tanmay1\Tanmay1\obj\Debug\Tanmay1.EventHead.resources
+D:\C#project\Tanmay1\Tanmay1\Tanmay1\obj\Debug\Tanmay1.FinanceForm.resources
+D:\C#project\Tanmay1\Tanmay1\Tanmay1\obj\Debug\Tanmay1.Form1.resources
+D:\C#project\Tanmay1\Tanmay1\Tanmay1\obj\Debug\Tanmay1.Form2.resources
+D:\C#project\Tanmay1\Tanmay1\Tanmay1\obj\Debug\Tanmay1.LoginForm.resources
+D:\C#project\Tanmay1\Tanmay1\Tanmay1\obj\Debug\Tanmay1.LogoutForm.resources
+D:\C#project\Tanmay1\Tanmay1\Tanmay1\obj\Debug\Tanmay1.NewEntryForm.resources
+D:\C#project\Tanmay1\Tanmay1\Tanmay1\obj\Debug\Tanmay1.NonCoreForm.resources
+D:\C#project\Tanmay1\Tanmay1\Tanmay1\obj\Debug\Tanmay1.ParticipantsShowForm.resources
+D:\C#project\Tanmay1\Tanmay1\Tanmay1\obj\Debug\Tanmay1.Properties.Resources.resources
+D:\C#project\Tanmay1\Tanmay1\Tanmay1\obj\Debug\Tanmay1.StatsShowForm.resources
+D:\C#project\Tanmay1\Tanmay1\Tanmay1\obj\Debug\Tanmay1.ViewMembersForm.resources
+D:\C#project\Tanmay1\Tanmay1\Tanmay1\obj\Debug\Tanmay1.csproj.GenerateResource.Cache
+D:\C#project\Tanmay1\Tanmay1\Tanmay1\obj\Debug\Tanmay1.exe
+D:\C#project\Tanmay1\Tanmay1\Tanmay1\obj\Debug\Tanmay1.pdb
+D:\C#project\Tanmay1\Tanmay1\Tanmay1\obj\Debug\Tanmay1.csprojResolveAssemblyReference.cache
+D:\study\C#project\Tanmay1\Tanmay1\Tanmay1\bin\Debug\Tanmay1.exe.config
+D:\study\C#project\Tanmay1\Tanmay1\Tanmay1\obj\Debug\Tanmay1.exe
+D:\study\C#project\Tanmay1\Tanmay1\Tanmay1\obj\Debug\Tanmay1.pdb
+D:\study\C#project\Tanmay1\Tanmay1\Tanmay1\obj\Debug\Tanmay1.csprojResolveAssemblyReference.cache
+D:\study\C#project\Tanmay1\Tanmay1\Tanmay1\obj\Debug\Tanmay1.AddMemberForm.resources
+D:\study\C#project\Tanmay1\Tanmay1\Tanmay1\obj\Debug\Tanmay1.CampaigningIntro.resources
+D:\study\C#project\Tanmay1\Tanmay1\Tanmay1\obj\Debug\Tanmay1.CoreMemberForm.resources
+D:\study\C#project\Tanmay1\Tanmay1\Tanmay1\obj\Debug\Tanmay1.EventHead.resources
+D:\study\C#project\Tanmay1\Tanmay1\Tanmay1\obj\Debug\Tanmay1.FinanceForm.resources
+D:\study\C#project\Tanmay1\Tanmay1\Tanmay1\obj\Debug\Tanmay1.Form1.resources
+D:\study\C#project\Tanmay1\Tanmay1\Tanmay1\obj\Debug\Tanmay1.Form2.resources
+D:\study\C#project\Tanmay1\Tanmay1\Tanmay1\obj\Debug\Tanmay1.LoginForm.resources
+D:\study\C#project\Tanmay1\Tanmay1\Tanmay1\obj\Debug\Tanmay1.LogoutForm.resources
+D:\study\C#project\Tanmay1\Tanmay1\Tanmay1\obj\Debug\Tanmay1.NewEntryForm.resources
+D:\study\C#project\Tanmay1\Tanmay1\Tanmay1\obj\Debug\Tanmay1.NonCoreForm.resources
+D:\study\C#project\Tanmay1\Tanmay1\Tanmay1\obj\Debug\Tanmay1.ParticipantsShowForm.resources
+D:\study\C#project\Tanmay1\Tanmay1\Tanmay1\obj\Debug\Tanmay1.Properties.Resources.resources
+D:\study\C#project\Tanmay1\Tanmay1\Tanmay1\obj\Debug\Tanmay1.StatsShowForm.resources
+D:\study\C#project\Tanmay1\Tanmay1\Tanmay1\obj\Debug\Tanmay1.ViewMembersForm.resources
+D:\study\C#project\Tanmay1\Tanmay1\Tanmay1\obj\Debug\Tanmay1.csproj.GenerateResource.Cache
+D:\study\C#project\Tanmay1\Tanmay1\Tanmay1\bin\Debug\Tanmay1.exe
+D:\study\C#project\Tanmay1\Tanmay1\Tanmay1\bin\Debug\Tanmay1.pdb
