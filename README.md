@@ -1,6 +1,6 @@
 # College-Campaigning-Management
 ## Academic Project 2018-19
-The main purpose of this software is to manage the details of the events like campaigning, sponsorship, registration of participants. The project tries to build an application program to reduce the manual work for managing the tasks allocated to the students, data of the registered participants, collected sponsorship amount from various business persons, and the number of participants from each college who actually attended the event.. It will serve as the integrated platform for all the activities related to event management
+The main purpose of this software is to manage the details of the events like campaigning, sponsorship, registration of participants. The project tries to build an application program to reduce the manual work for managing the tasks allocated to the students, data of the registered participants, collected sponsorship amount from various business persons, and the number of participants from each college who actually attended the event. It will serve as the integrated platform for all the activities related to event management
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 ### Prerequisites
