@@ -25,4 +25,4 @@ A step by step series of instruction that tell you how to get a development env 
 
 ## Authors
 * **Ajinkya Gholape** 
-See also the list of [contributors](https://github.com/ajinkyagholape1998/College-Event-Campaigning-Management/blob/master/contributors.txt) who participated in this project.
+See also the list of [contributors](https://github.com/ajinkyagholape1998/College-Event-Campaigning-Management/blob/master/contributors) who participated in this project.
