@@ -9,7 +9,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installing
 A step by step series of instruction that tell you how to get a development env running
 1. [Click here](https://visualstudio.microsoft.com/vs/older-downloads/) to download **visual studio 2015**
-2. [Click here](https://www.microsoft.com/en-in/sql-server/sql-server-editions-express) to download **SQL Server Express **
+2. [Click here](https://www.microsoft.com/en-in/sql-server/sql-server-editions-express) to download **SQL Server Express**
 
 ## Running the tests
 
