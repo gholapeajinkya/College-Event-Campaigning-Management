@@ -15,13 +15,13 @@ A step by step series of instruction that tell you how to get a development env 
 
 <img align="left" title="Login Screen" width="250 " height="300" src="https://github.com/ajinkyagholape1998/College-Event-Campaigning-Management/blob/master/Screeshots/2.PNG">
 
-<img align="left" title="Home Screen" width="250 " height="300" src="https://github.com/ajinkyagholape1998/College-Event-Campaigning-Management/blob/master/Screeshots/3.PNG">
+<img align="left" title="Add Event Screen" width="250 " height="300" src="https://github.com/ajinkyagholape1998/College-Event-Campaigning-Management/blob/master/Screeshots/3.PNG">
 
-<img title="Show Details Screen" width="250 " height="300" src="https://github.com/ajinkyagholape1998/College-Event-Campaigning-Management/blob/master/Screeshots/4.PNG">
+<img title="Add Members Screen" width="250 " height="300" src="https://github.com/ajinkyagholape1998/College-Event-Campaigning-Management/blob/master/Screeshots/4.PNG">
 
-<img align="left" title="Choose Date & City Screen" width="250 " height="300" src="https://github.com/ajinkyagholape1998/College-Event-Campaigning-Management/blob/master/Screeshots/5.PNG">
+<img align="left" title="Financial Details Screen" width="250 " height="300" src="https://github.com/ajinkyagholape1998/College-Event-Campaigning-Management/blob/master/Screeshots/5.PNG">
 
-<img title="Choose Seats Screen" width="510 " height="300" src="https://github.com/ajinkyagholape1998/College-Event-Campaigning-Management/blob/master/Screeshots/6.PNG">
+<img title="Members Details Screen" width="510 " height="300" src="https://github.com/ajinkyagholape1998/College-Event-Campaigning-Management/blob/master/Screeshots/6.PNG">
 
 ## Authors
 * **Ajinkya Gholape** 
